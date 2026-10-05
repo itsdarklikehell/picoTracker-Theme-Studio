@@ -1,0 +1,15 @@
+{
+  "name": "picotracker-theme-studio",
+  "version": "1.0.0",
+  "description": "Browser-based theme editor for picoTracker — design and export .PTT theme files",
+  "private": true,
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "serve": "python3 -m http.server 8000 --directory static-app"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.0",
+    "jsdom": "^25.0.0"
+  }
+}

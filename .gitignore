@@ -2,5 +2,6 @@
 .qodo
 .trunk
 .vscode
+node_modules
 picoTracker Theme Studio.code-workspace
 
